@@ -34,7 +34,7 @@ monitor-de-sites/
 ### Clonando o Repositório
 
 ```
-git clone https://github.com/seu-usuario/monitor-de-sites.git
+git clone https://github.com/JoanaRolim/monitor-backend.git
 cd monitor-de-sites
 ```
 
