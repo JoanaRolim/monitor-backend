@@ -136,7 +136,7 @@ Corpo da Requisição:
 
 ```
 {
-  "url": "https://example.com"
+  "url": "https://exemplo.com"
 }
 ```
 
